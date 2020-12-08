@@ -1,4 +1,4 @@
-# BinarySearchTreeImplementation
+# Binary Search Tree Implementation
 
 
 Implementing a binary search tree: deleting a node 
